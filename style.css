@@ -1,18 +1,41 @@
 * {
-  color: white;
   box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
-a {
+.nav {
   text-decoration-style: none;
 }
 
 /* Style the top navigation bar */
-.navbar {
+
+.flex-container {
   display: flex;
+  justify-content: flex-start;
   background-color: black;
+}
+
+.flex-container .item_nav {
+  background-color: black;
+  margin: 10px;
+  padding: 20px 10px 15px 0;
+  font-size: 15px;
+  text-align: center;
+}
+
+.item_nav a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+
+#logo {
+  padding: 0;
 }
 
 body {
   background-color: rgb(83, 8, 8);
 }
+
+/*  */
