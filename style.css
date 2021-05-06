@@ -18,7 +18,7 @@
   border-radius: 15px;
 }
 
-/* Style the top navigation bar */
+/* Style the top navigation bar - inicio de cambios*/
 
 .flex-container {
   display: flex;
@@ -43,8 +43,8 @@
 #logo {
   padding: 0;
 }
-/*  cambios   */
- 
+/* Final  */
+
 body {
   background-color: #430303;
 }
@@ -180,4 +180,3 @@ p {
   text-align: center;
   padding: 5px 0px;
 }
->>>>>>> 934ca1bdb50cfd3389c98acfa54403d94093b03a
