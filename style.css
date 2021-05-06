@@ -12,6 +12,10 @@
   justify-content: center;
   border-radius: 15px;
 }
+.center{
+  justify-content: center;
+
+}
 
 .main_img {
   margin: 15px;
