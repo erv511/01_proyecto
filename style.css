@@ -16,3 +16,11 @@ a {
 body {
   background-color: rgb(83, 8, 8);
 }
+
+section {
+  display: block;
+}
+
+footer{
+  display: flex;
+}
